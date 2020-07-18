@@ -4,7 +4,7 @@ Hi! If you are seeing this, then my normal website is down. This landing page is
 
 # Buy my book!
 
-*Space Lord Omega: the Limits of Memory* is available for sale on Amazon. In order to make more profit, and circumvent Amazon to some extent, I offer the same copy for cheaper, with additional content:
+[*Space Lord Omega: the Limits of Memory*](https://www.amazon.com/Space-Lord-Omega-Limits-Memory/dp/0578675021/ref=tmm_pap_swatch_0?qid=1595102126&sr=8-2) is available for sale on Amazon. In order to make more profit, and circumvent Amazon to some extent, I offer the same copy for cheaper, with additional content:
 
 - The paperback novel
 
@@ -12,7 +12,7 @@ Hi! If you are seeing this, then my normal website is down. This landing page is
 
 - Digital copy of the side-stories: *Limits of Empathy: Red Flags and Other Smoking Guns*
 
-Use the **Buy Now** button below to purchase a copy:
+Use the **Buy Now** button below to purchase a copy. Credit cards use a secure PayPal checkout method. You can also use your PayPal, or Venmo at @ranceltheauthor
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -32,3 +32,4 @@ Method | Info
 **Facebook** | facebook.com/r.ancel.the.author
 **Twitter** | @RAncelTheAuthor
 **Website** | ranceltheauthor.net</br>ranceltheauthor.gitlab.io
+**Venmo** | @ranceltheauthor
