@@ -1,6 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <html>
 <head>
+<title> R. Ancel, author (Gitlab landing page)</title>
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet"> 
 <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet"> 
 <style>
