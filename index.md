@@ -1,8 +1,28 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet"> 
+<style>
+a {
+	color: #dc2222;
+}
+
+p {
+	font-family: 'EB Garamond', serif;
+}
+<style>
+</head>
+<body>
+
 # R. Ancel, Author
 
 Hi! If you are seeing this, then my normal website is down. This landing page is just a placeholder for sales reasons.
 
 # Buy my book!
+
+![](spacelord_on_google_books.png)
+
+Leave a positive rating on [Amazon](https://www.amazon.com/Space-Lord-Omega-Limits-Memory/dp/0578675021) and [Google Books](https://books.google.com/books/about/Space_Lord_Omega_The_Limits_of_Memory.html?id=yE6NzQEACAAJ&source=kp_book_description)!
 
 [*Space Lord Omega: the Limits of Memory*](https://www.amazon.com/Space-Lord-Omega-Limits-Memory/dp/0578675021/ref=tmm_pap_swatch_0?qid=1595102126&sr=8-2) is available for sale on Amazon. In order to make more profit, and circumvent Amazon to some extent, I offer the same copy for cheaper, with additional content:
 
@@ -24,6 +44,10 @@ Use the **Buy Now** button below to purchase a copy. Credit cards use a secure P
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+# Coming soon...
+
+I'm working on my next novel, *Bread and Circuses* (working title). This novel investigates a handful of mental health disorders. It explores how a cult mindset can factor into such conditions. By and large, this new territory for me, well outside my comfort zone. If you have any thoughts, experience, or ideas on this, please reach out and let me know.
+
 # Contact me
 
 Method | Info
@@ -33,3 +57,6 @@ Method | Info
 **Twitter** | @RAncelTheAuthor
 **Website** | ranceltheauthor.net</br>ranceltheauthor.gitlab.io
 **Venmo** | @ranceltheauthor
+
+</body>
+</html>
