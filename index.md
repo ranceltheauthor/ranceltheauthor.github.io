@@ -81,7 +81,7 @@ Please note: if you order one of these, it may take awhile to arrive. I ship the
 
 # Coming soon...
 
-I'm working on my next novel, *Bread and Circuses* (working title). This novel investigates a handful of mental health disorders. It explores how a cult mindset can factor into such conditions. By and large, this new territory for me, well outside my comfort zone. If you have any thoughts, experience, or ideas on this, please reach out and let me know.
+I'm working on my next novel, *Bread and Circuses* (working title). This novel investigates a handful of mental health disorders. It explores how a cult mindset can factor into such conditions. By and large, this is new territory for me, well outside my comfort zone. If you have any thoughts, experience, or ideas on this, please reach out and let me know.
 
 # Contact me
 
